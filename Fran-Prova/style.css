@@ -3,7 +3,7 @@
     padding: 0;
 }
 .cabecalho{
-    background-color: rgb(12, 12, 66);
+    background-color:navy;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -13,46 +13,60 @@
 .imagem-cabecalho{
     width: 15%;
 }
-.cabeIcalho{
+.cabeccalho{
     color: white;
 }
-.menu1{
-display: inline-block;
-font-size: 20px;
-margin: 0 30px;
+.Menu1{
+background-image: linear-gradient(navy,lightskyblue );
+padding: 40px 0;
 }
-.menu2{
-display: inline-block;
-font-size: 20px;
-margin: 0 30px;
+.parte0{
+    margin: 0 20px;
+    width: 10%;
 }
-.menu3{
-display: inline-block;
-font-size: 20px;
-margin: 0 30px;
+.parte1{
+    margin: 0 20px;
 }
-.menu4{
-display: inline-block;
-font-size: 20px;
-margin: 0 30px;
+.parte2{
+    margin: 0 20px;
 }
-.imagem-menu{
-    background-color: rgb(12, 12, 66);
+.parte3{
+    margin: 0 20px;
+}
+.imagem-menu1{
+    background-image: linear-gradient(lightskyblue, navy);
     color: white;
     display: flex;
     justify-content: space-around;
-    align-items: center;
+    align-items: normal;
     padding: 20px 0;
 }
-.img-informacao{
+.imagem1{
     width: 10%;
 }
-.img-oquee{
+.imagem2{
     width: 10%;
 }
-.img-aulas{
+.imagem3{
     width: 10%;
 }
-.img-codigo{
-    width: 10%;
+.Desenvolvimento1{
+    background-image: linear-gradient(rgb(6, 42, 65), rgb(69, 121, 233));
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: normal;
+    padding: 0 20px;
+}
+.texto-desenvolvimento{
+    display: inline-block;
+    font-size: 20px;
+    padding: 0 30px;
+}
+.imagem4{
+    width: 8%;
+}
+.rodape{
+    background-color: navy;
+    color: white;
 }
