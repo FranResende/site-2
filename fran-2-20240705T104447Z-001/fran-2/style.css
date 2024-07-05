@@ -1,0 +1,139 @@
+.cabecalho{
+    background-color: #86574D;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 23px;
+}
+.desenvolvimento{
+    background-color: #a56e63;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.Limpeza{
+   background-color: #a56e63; 
+   display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.Fisio{
+    background-color: #a56e63;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.capilar2{
+    background-color: #a56e63;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.Bichec{
+    background-color: #a56e63;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.P{
+    background-color: #a56e63;
+    justify-content: space-around;
+    align-items: center;
+    padding: 16px;
+}
+.nós{
+    background-color: #a56e63;
+    justify-content: space-around;
+    align-items: center;
+    padding: 16px;
+}
+.imagem-cabecalho{
+    width: 15%;
+
+}
+.Titulo{
+    font-size: 2em;
+}
+.Dados{
+    display: inline-block;
+    margin: 0px 30px;
+    padding: 15px;
+}
+.farmacia_estetica{
+padding: 1em 3em;
+}
+.farmaciaa{width: 25%;
+margin: 0px 30px 20px 0px;
+
+}
+section#p {
+    font-size: 20px;
+    padding: 20px 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+section#abelha img{
+    width: 15%;
+    padding: 23px 0em;
+    margin: 20px 60px;
+}
+
+.fisiodermato{ 
+    width: 15%;
+    padding:0px 10px ;
+ }
+ .capilar{
+    width: 18%;
+ }
+ .Bichectomia-1{
+    width: 15%;
+ }
+
+ .nomes{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10px 4px;
+    padding: 0px 10px ;
+ }
+
+ .t{
+    padding: 0px 30px 0px 0px;
+ }
+
+ .texto-desenvolvimento{
+    text-align: center;
+ }
+.Argila{
+    width: 18%;
+}
+.max{
+    width: 16%;
+}
+.implante{
+    width: 18%;
+}
+.odonto{
+    padding: 18px;
+    width: 20%;
+}
+.zap{
+    width: 10%;
+    justify-content: space-around;
+    align-items: center;
+    padding: 16px;
+}
+.insta{
+    width: 8%;
+    justify-content: space-around;
+    align-items: center;
+    padding: 16px;
+}
+.max{
+    width: 12%;
+}
+.icons{
+    width: 8%;
+    padding:  0px 22px;
+    justify-content: space-around;
+    align-items: center;
+}
